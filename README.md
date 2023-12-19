@@ -64,5 +64,5 @@ Codes for the Machine learning model can be found under [Machine_Learning_Models
    Allen Varghese
   
 ## Mentor
-   Dr. Phu Phung
-   Dr. Ahmed El Ouadrhiri
+   ## Dr. Phu Phung
+   ## Dr. Ahmed El Ouadrhiri
